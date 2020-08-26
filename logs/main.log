@@ -1,0 +1,7 @@
+[logger] [2020-08-26 16:37:55] INFO  - Starting PDUReaderWorker with processor degree:3 ...
+[logger] [2020-08-26 16:37:55] INFO  - Waiting for connection
+[logger] [2020-08-26 16:37:55] INFO  - Accepted bind
+[logger] [2020-08-26 16:45:01] INFO  - START
+[logger] [2020-08-26 16:45:15] INFO  - Starting PDUReaderWorker with processor degree:3 ...
+[logger] [2020-08-26 16:45:15] INFO  - Waiting for connection
+[logger] [2020-08-26 16:45:15] INFO  - Accepted bind
